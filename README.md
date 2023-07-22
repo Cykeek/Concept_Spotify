@@ -13,6 +13,10 @@ Welcome to the Concept UI for Spotify Android Devices repository! This project i
 - Improved visual aesthetics and user experience.
 - Seamless integration with existing Spotify functionalities.
 
+## Previews
+
+![Slide 16_9 - 2_homescreen](https://github.com/Cykeek/Concept_Spotify/assets/70019075/09500fc8-a6bb-4863-b406-d82dea122bf8)
+
 ## Feedback and Contributions
 
 Your feedback is highly appreciated! If you have any suggestions or want to contribute to this concept UI, please feel free to open an issue or submit a pull request. Together, we can make it even better!
