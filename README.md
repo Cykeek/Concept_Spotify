@@ -13,6 +13,9 @@ Welcome to the Concept UI for Spotify Android Devices repository! This project i
 - Improved visual aesthetics and user experience.
 - Seamless integration with existing Spotify functionalities.
 
+## Figma Download Link is Here:
+https://www.figma.com/community/file/1264587179088449029
+
 ## Previews
 
 ![Slide 16_9 - 2_homescreen](https://github.com/Cykeek/Concept_Spotify/assets/70019075/09500fc8-a6bb-4863-b406-d82dea122bf8)
