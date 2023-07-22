@@ -18,6 +18,7 @@ Welcome to the Concept UI for Spotify Android Devices repository! This project i
 ![Slide 16_9 - 2_homescreen](https://github.com/Cykeek/Concept_Spotify/assets/70019075/09500fc8-a6bb-4863-b406-d82dea122bf8)
 ![Slide 16_9 - 3_searchsection](https://github.com/Cykeek/Concept_Spotify/assets/70019075/a040808a-ae03-4265-af6c-8d1f0e59cbf5)
 ![Slide 16_9 - 4_ArtistPage](https://github.com/Cykeek/Concept_Spotify/assets/70019075/f34f6323-d31f-449b-bf57-57f69107abc6)
+![Slide 16_9 - 5_Player](https://github.com/Cykeek/Concept_Spotify/assets/70019075/570c6a50-65a7-4fb4-afca-e01f977d331b)
 
 ## Feedback and Contributions
 
